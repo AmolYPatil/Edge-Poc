@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/BMSDemo/:/",
+    "/content/BMSDemo/:/"
 ],
   "includes": ["/content/BMSDemo/"]
 }
